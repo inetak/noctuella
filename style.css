@@ -175,14 +175,14 @@
 					width: 48%;
 				}
 				.product-detail{
-					margin: auto;
+					/*margin: auto;*/
 				}	
 				table{
-					margin: auto;
+					/*margin: auto;*/
 				}
-/*				form{
+				form{
 					margin: auto; 
-				}		*/
+				}		
 			}
 
 			@media (min-width: 1000px) {
